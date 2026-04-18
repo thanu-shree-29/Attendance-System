@@ -5,13 +5,14 @@
 This project is a Student Attendance Management System built using SQL and Python in Google Colab. It analyzes student attendance data, performs SQL operations, and generates insights like toppers, defaulters, and attendance trends.
 
 🎯 Objectives
-Manage student and attendance records using SQL
-Perform data analysis using Python (Pandas)
-Generate meaningful insights from attendance data
-Visualize trends using graphs
-Build a mini real-world DBMS project
+1. Manage student and attendance records using SQL
+2. Perform data analysis using Python (Pandas)
+3. Generate meaningful insights from attendance data
+4. Visualize trends using graphs
+5. Build a mini real-world DBMS project
 
 🛠️ Tech Stack
+
 🐍 Python
 🗄️ SQLite (SQL Database)
 📊 Pandas
