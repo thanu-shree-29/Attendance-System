@@ -12,32 +12,32 @@ This project is a Student Attendance Management System built using SQL and Pytho
 5. Build a mini real-world DBMS project
 
 🛠️ Tech Stack
-🐍 Python
-🗄️ SQLite (SQL Database)
-📊 Pandas
-📈 Matplotlib
-☁️ Google Colab
+- Python
+- SQLite (SQL Database)
+- Pandas
+- Matplotlib
+- Google Colab
 
 ⚙️ Features
-✔ Load CSV into SQL database
-✔ Create relational tables
-✔ SQL JOIN operations
-✔ Attendance percentage calculation
-✔ Topper list generation
-✔ Defaulter list (<75%)
-✔ Subject-wise analysis
-✔ Monthly attendance trends
-✔ Data visualization using graphs
-✔ Interactive dashboard (Colab widgets)
+1. Load CSV into SQL database
+2. Create relational tables
+3. SQL JOIN operations
+4. Attendance percentage calculation
+5. Topper list generation
+6. Defaulter list (<75%)
+7. Subject-wise analysis
+8. Monthly attendance trends
+9. Data visualization using graphs
+10. Interactive dashboard (Colab widgets)
 
 📊 Key Outputs
-🏆 Topper List
+1. Topper List
 Displays students with highest attendance percentage.
-⚠️ Defaulter List
+2. Defaulter List
 Displays students with attendance below 75%.
-📚 Subject-wise Analysis
+3. Subject-wise Analysis
 Shows attendance performance per subject.
-📅 Monthly Trend
+4. Monthly Trend
 Shows how attendance changes over time.
 
 📌 Project Structure
