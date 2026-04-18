@@ -12,7 +12,6 @@ This project is a Student Attendance Management System built using SQL and Pytho
 5. Build a mini real-world DBMS project
 
 🛠️ Tech Stack
-
 🐍 Python
 🗄️ SQLite (SQL Database)
 📊 Pandas
