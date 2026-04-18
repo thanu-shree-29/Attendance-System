@@ -41,11 +41,10 @@ Shows attendance performance per subject.
 Shows how attendance changes over time.
 
 📌 Project Structure
-
-Attendance-System-Aplus/
-│── student.csv
-│── attendance.csv
-│── notebook.ipynb
-│── AttendanceDB.db
-│── Attendance_Report.pdf
-│── README.md
+Attendance-System
+|--student.csv
+│-- attendance.csv
+│-- notebook.ipynb
+│-- AttendanceDB.db
+│-- Attendance_Report.pdf
+│-- README.md
