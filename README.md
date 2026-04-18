@@ -41,6 +41,7 @@ Shows attendance performance per subject.
 Shows how attendance changes over time.
 
 📌 Project Structure
+
 Attendance-System
 |--student.csv
 │-- attendance.csv
